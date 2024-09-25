@@ -1,6 +1,6 @@
 str1 = "Hello, welcome to python programming!"
 
-punctuation = [',', ';']  
+punctuation = [',', ';', '!']  
 res = str1.split()
 cleaned_res = []
 
